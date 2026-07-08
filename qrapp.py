@@ -7,7 +7,7 @@ import cv2
 import numpy as np
 
 st.set_page_config(page_title="LINKORA", page_icon="qrcodeyyy.png")
-st.title("✨ QR CODE GENERATOR ✨")
+st.title(" QR CODE GENERATOR ")
 
 
 qr_data = st.text_input("Enter your link to generate code", key="qr_input")
