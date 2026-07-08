@@ -1,4 +1,4 @@
-# ✨ LINKORA QR Generator
+#  LINKORA QR Generator
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Generate+QR+Codes+Easily;Customize+Your+Style;Decode+QR+from+Images)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@ LINKORA QR Generator adalah aplikasi berbasis **Streamlit** untuk membuat QR Cod
 ---
 
 ## 🌐 Live link APP
-[👉 [Buka LINKORA QR Generator](https://linkora.streamlit.app/)
+👉 [Buka LINKORA QR Generator](https://linkora.streamlit.app/)
 
 ---
 
