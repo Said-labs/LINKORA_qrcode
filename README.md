@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Generate+QR+Codes+Easily;Customize+Your+Style;Decode+QR+from+Images)](https://git.io/typing-svg)
 
 ## 🚀 About
-LINKORA QR Generator adalah aplikasi berbasis **Streamlit** untuk membuat QR Code dengan fitur:
+LINKORA QR Generator adalah WEBSITE  berbasis **Streamlit** untuk membuat QR Code dengan fitur:
 - 🎨 Custom warna & background
-- 🖼️ Logo bulat di tengah QR
+- 🖼️ Logo bulat di tengah QR dari logo website
 - 📥 Download QR langsung (PNG)
 - 🔍 Upload & decode QR dari gambar
 - 🎉 Animasi interaktif (fade-in, confetti)
