@@ -15,6 +15,10 @@ LINKORA QR Generator adalah aplikasi berbasis **Streamlit** untuk membuat QR Cod
 ## 📸 Preview
 <img width="1901" height="822" alt="Screenshot 2026-07-08 202221" src="https://github.com/user-attachments/assets/04314df7-5246-478b-9652-e340978a4efc" />
 
+---
+
+## 🌐 Live link APP
+[👉 [Buka LINKORA QR Generator](https://linkora.streamlit.app/)
 
 ---
 
@@ -32,4 +36,3 @@ git clone https://github.com/Said-labs/linkora-qr.git
 cd linkora-qr
 pip install -r requirements.txt
 streamlit run qrapp.py
-
