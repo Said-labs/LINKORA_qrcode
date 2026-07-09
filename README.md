@@ -5,7 +5,7 @@
 ##  About
 LINKORA QR Generator is a **Streamlit** for creating QR codes with features such as:
 - 🎨 Custom colors & background
-- 🖼️ Circular logo embedding from your website logo
+- 🖼️ Circular logo embedding from Lingkora website logo
 - 📥 Direct QR download (PNG)
 - 🔍 Upload & decode QR from images
 - 🎉 Interactive animations (fade-in, confetti)
@@ -21,7 +21,7 @@ LINKORA QR Generator is a **Streamlit** for creating QR codes with features such
 
 
 
-## 🌐 Live App
+## 🌐 Live WEBSITE
 👉 [Open LINKORA QR Generator](https://linkora.streamlit.app/)
 
 
