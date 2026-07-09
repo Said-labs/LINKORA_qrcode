@@ -1,6 +1,6 @@
 # LINKORA QR Generator
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Generate+QR+Codes+Easily;Customize+Your+Style;Decode+QR+from+Images)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=1E90FF&lines=Generate+QR+Codes+Fast;Customize+Your+Style;Decode+QR+from+Images)](https://git.io/typing-svg)
 
 ##  About
 LINKORA QR Generator is a **Streamlit** for creating QR codes with features such as:
