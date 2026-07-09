@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Generate+QR+Codes+Easily;Customize+Your+Style;Decode+QR+from+Images)](https://git.io/typing-svg)
 
-## 🚀 About
+##  About
 LINKORA QR Generator is a **Streamlit** for creating QR codes with features such as:
 - 🎨 Custom colors & background
 - 🖼️ Circular logo embedding from your website logo
@@ -27,10 +27,11 @@ LINKORA QR Generator is a **Streamlit** for creating QR codes with features such
 
 
 ## ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-FFDD00?style=for-the-badge&logo=python&logoColor=black)
+![Streamlit](https://img.shields.io/badge/streamlit-1.32-red?logo=streamlit)
+![QRcode](https://img.shields.io/badge/qrcode-lib-blue)
+![Pillow](https://img.shields.io/badge/pillow-image-yellow)
+![NumPy](https://img.shields.io/badge/numpy-math-lightblue?logo=numpy)
+![OpenCV](https://img.shields.io/badge/opencv-headless-green?logo=opencv)
 
 
 
