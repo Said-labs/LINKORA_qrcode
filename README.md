@@ -12,7 +12,7 @@ LINKORA QR Generator is a **Streamlit** for creating QR codes with features such
 
 
 
-## 📸 Preview
+##  Preview
 <img width="1901" height="822" alt="Screenshot 2026-07-08 202221" src="https://github.com/user-attachments/assets/04314df7-5246-478b-9652-e340978a4efc" />
 <img width="757" height="767" alt="image" src="https://github.com/user-attachments/assets/b124b0a2-4b07-4eea-bc17-90e0ef65671c" />
 <img width="647" height="503" alt="Screenshot 2026-07-09 075115" src="https://github.com/user-attachments/assets/63785298-aac3-45e0-bb2c-41a27351a746" />
@@ -21,12 +21,12 @@ LINKORA QR Generator is a **Streamlit** for creating QR codes with features such
 
 
 
-## 🌐 Live WEBSITE
+##  Live WEBSITE
 👉 [Open LINKORA QR Generator](https://linkora.streamlit.app/)
 
 
 
-## ⚙️ Tech Stack
+##  Tech Stack
 ![Streamlit](https://img.shields.io/badge/streamlit-1.32-red?logo=streamlit)
 ![QRcode](https://img.shields.io/badge/qrcode-lib-blue)
 ![Pillow](https://img.shields.io/badge/pillow-image-yellow)
@@ -35,7 +35,7 @@ LINKORA QR Generator is a **Streamlit** for creating QR codes with features such
 
 
 
-## 🛠️ How to Run
+##  How to Run
 ```bash
 git clone https://github.com/Said-labs/linkora-qr.git
 cd linkora-qr
