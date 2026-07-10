@@ -37,8 +37,8 @@ LINKORA QR Generator is a **Streamlit** for creating QR codes with features such
 
 ##  How to Run
 ```bash
-git clone https://github.com/Said-labs/linkora-qr.git
-cd linkora-qr
+git clone https://github.com/Said-labs/LINKORA_qrcode.git
+cd LINKORA_qrcode
 pip install -r requirements.txt
 streamlit run qrapp.py
 
