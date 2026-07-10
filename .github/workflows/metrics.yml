@@ -1,0 +1,16 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # jalan tiap hari jam 00:00 UTC
+  workflow_dispatch: # bisa dijalankan manual
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Said-labs
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
